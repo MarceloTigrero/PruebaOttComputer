@@ -1,0 +1,14 @@
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\obj\Debug\net9.0\FileProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\obj\Debug\net9.0\FileProcessor.AssemblyInfoInputs.cache
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\obj\Debug\net9.0\FileProcessor.AssemblyInfo.vb
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\obj\Debug\net9.0\FileProcessor.vbproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\bin\Debug\net9.0\FileProcessor.exe
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\bin\Debug\net9.0\FileProcessor.deps.json
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\bin\Debug\net9.0\FileProcessor.runtimeconfig.json
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\bin\Debug\net9.0\FileProcessor.dll
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\bin\Debug\net9.0\FileProcessor.pdb
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\obj\Debug\net9.0\FileProcessor.dll
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\obj\Debug\net9.0\refint\FileProcessor.dll
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\obj\Debug\net9.0\FileProcessor.pdb
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\obj\Debug\net9.0\FileProcessor.genruntimeconfig.cache
+C:\Users\Bryan\OneDrive\Escritorio\DRIVE-PC\OneDrive\Documents\prueba\T9\FileProcessor\obj\Debug\net9.0\ref\FileProcessor.dll
